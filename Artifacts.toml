@@ -1,0 +1,8 @@
+[[PATHlib]]
+arch = "x86_64"
+git-tree-sha1 = "c3c087202f74d836f785c1914d643794db60a89b"
+os = "macos"
+
+    [[PATHlib.download]]
+    sha256 = "88e6c76ecde10b6002f93df9099ee8637f472e4a29794150286a2b9f7c0398d4"
+    url = "https://github.com/JuliaBinaryWrappers/PATHlib_jll.jl/releases/download/PATHlib-v4.7.3+0/PATHlib.v4.7.3.x86_64-apple-darwin14.tar.gz"
